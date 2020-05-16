@@ -1,0 +1,38 @@
+body{
+	background:#e9ecef!important;
+}
+.side-tabs{
+	padding:20px 5px;
+	height:90px;
+	text-align:center;
+	display:block;
+	background:#e9ecef;
+	color:#777676;
+	line-height:1.5;
+	margin:0px;
+	
+	border-bottom:1px solid #e9ecef;
+}
+.side-tabs{
+	cursor:pointer;
+	margin:0px;
+
+}
+.side-tabs:hover{
+	background:#4b4c4c;
+	color:white;
+	transition:0.5s ease-in;
+}
+.active{
+	background:#343a40!important;
+	color:white;
+}
+.tabs-area{
+	background:white;
+	padding:5px;
+}
+body{
+  background:url('../complaint.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
